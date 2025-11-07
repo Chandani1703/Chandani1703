@@ -31,4 +31,4 @@ Python • Git • PyCharm • VS Code • HTML/CSS • Jupyter • Research
 
 ## 📸 GitHub Profile
 
-![GitHub Profile Screenshot](profile-screenshot.png)
+![GitHub Profile Screenshot](Profile Screenshot.png)
