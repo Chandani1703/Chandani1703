@@ -26,3 +26,9 @@ Python • Git • PyCharm • VS Code • HTML/CSS • Jupyter • Research
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+
+---
+
+## 📸 GitHub Profile
+
+![GitHub Profile Screenshot](profile-screenshot.png)
