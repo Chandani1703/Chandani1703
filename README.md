@@ -2,7 +2,7 @@
 
 # Hi, I'm Chandani Patel 👋
 
-🎓 Computer Science student (CS4A) at Leeds  
+🎓 Computer Science student (CS4A) at Leeds Beckett University 
 👨‍🏫 Tutors: Tony Jenkins, Patrick Ingham  
 🔭 Working on Python projects and practical coding exercises  
 🌱 Interested in: Automation, Web Development, Data Science  
