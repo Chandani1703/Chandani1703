@@ -19,6 +19,7 @@ Python • Git • PyCharm • VS Code • HTML/CSS • Jupyter • Research
 
 ## 📫 Connect with me
 - [Email Address = chandnipatel00758@gmail.com]
+- [LinkedIn = Chandni Patel]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
