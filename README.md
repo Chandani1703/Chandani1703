@@ -1,6 +1,7 @@
 # Chandani1703
 
 # Hi, I'm Chandani Patel 👋
+![vscode.svg](../../Downloads/visual-studio-code-icons/vscode.svg)
 
 🎓 Computer Science student (CS4A) at Leeds Beckett University 
 👨‍🏫 Tutors: Tony Jenkins, Patrick Ingham  
